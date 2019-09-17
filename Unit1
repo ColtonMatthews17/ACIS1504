@@ -1,0 +1,12 @@
+
+Import
+  Access data not formatted as an Excel Document
+  File type = txt or csv (Comma Seperated Value) 
+    the delimiter is the character used to seperate values, in this case comma's
+    Quotes are a text qualifier, everything inside quotes are put inside one column
+      enables quotes to be in one column
+
+"big data is better data" video has exam questions
+
+
+
